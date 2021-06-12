@@ -56,7 +56,7 @@ nrbt1.addEventListener("click", () => {
 
 // Set 2 ------------------------------------
 frbt2.addEventListener("click", () => {
-    frbt2.innerText = "What's the name of the coffee shop used by the characters?";
+    frbt2.innerText = "How many sisters does Joey have?";
 });
 fobt2.addEventListener("click", () => {
     fobt2.innerText = "What's the price of SamosaPav?";
@@ -71,7 +71,7 @@ nrbt2.addEventListener("click", () => {
 
 // Set 3 ------------------------------------
 frbt3.addEventListener("click", () => {
-    frbt3.innerText = "What hangs on Monica's purple door?";
+    frbt3.innerText = "What nickname did Monica’s dad give her?";
 });
 fobt3.addEventListener("click", () => {
     fobt3.innerText = "Tirth law me ladkiyo ko tadne jata thha!    [True False]";
@@ -86,7 +86,7 @@ nrbt3.addEventListener("click", () => {
 
 // Set 4 ------------------------------------
 frbt4.addEventListener("click", () => {
-    frbt4.innerText = "What is the name of Phoebe's alter-ego? ";
+    frbt4.innerText = "How does Rachel remember her seat number for her flight to Paris?";
 });
 fobt4.addEventListener("click", () => {
     fobt4.innerText = "K canteen average daily  kamai due to coupons they give us back which we never use.";
@@ -101,7 +101,7 @@ nrbt4.addEventListener("click", () => {
 
 // Set 5 ------------------------------------
 frbt5.addEventListener("click", () => {
-    frbt5.innerText = "Who is Chandler and Joey's TV magazine addressed to?";
+    frbt5.innerText = "What does Chandler’s dad’s job?";
 });
 fobt5.addEventListener("click", () => {
     fobt5.innerText = "Fastest Finger First : name 4 canteens of nirma with their one  most popular dish.";
@@ -116,7 +116,7 @@ nrbt5.addEventListener("click", () => {
 
 // Set 6 ------------------------------------
 frbt6.addEventListener("click", () => {
-    frbt6.innerText = "What is Janice most likely to say?";
+    frbt6.innerText = "Which friend was the only one to kiss all the other friends over the course of the show?";
 });
 fobt6.addEventListener("click", () => {
     fobt6.innerText = "Eating 4 packets of what are the real victory";

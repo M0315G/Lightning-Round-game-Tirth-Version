@@ -62,7 +62,7 @@ fobt2.addEventListener("click", () => {
     fobt2.innerText = "What's the price of SamosaPav?";
 });
 tibt2.addEventListener("click", () => {
-    tibt2.innerText = "Where does Tirth spend the most time in the hostel? Other than room…";
+    tibt2.innerText = "Last, when was Tirth emoo! [ hints:  he watched suits, the lion, familyman2]";
 });
 nrbt2.addEventListener("click", () => {
     nrbt2.innerText = "Favourite place of Tirth in Nirma?";
@@ -71,13 +71,13 @@ nrbt2.addEventListener("click", () => {
 
 // Set 3 ------------------------------------
 frbt3.addEventListener("click", () => {
-    frbt3.innerText = "What nickname did Monica’s dad give her?";
+    frbt3.innerText = "How does Rachel remember her seat number for her flight to Paris?";
 });
 fobt3.addEventListener("click", () => {
     fobt3.innerText = "Tirth law me ladkiyo ko tadne jata thha!    [True False]";
 });
 tibt3.addEventListener("click", () => {
-    tibt3.innerText = "Last, when was Tirth emoo! [ hints:  he watched suits, the lion, familyman2]";
+    tibt3.innerText = "Tirth favorite food";
 });
 nrbt3.addEventListener("click", () => {
     nrbt3.innerText = "The place of Nirma Tirth must have not been visited in this ( 1.5 + 1.5j ) years";
@@ -86,74 +86,85 @@ nrbt3.addEventListener("click", () => {
 
 // Set 4 ------------------------------------
 frbt4.addEventListener("click", () => {
-    frbt4.innerText = "How does Rachel remember her seat number for her flight to Paris?";
+    frbt4.innerText = "What does Chandler’s dad’s job?";
 });
 fobt4.addEventListener("click", () => {
-    fobt4.innerText = "K canteen average daily  kamai due to coupons they give us back which we never use.";
+    fobt4.innerText = "Tirth 2 favorite chocolates after lunch";
 });
 tibt4.addEventListener("click", () => {
-    tibt4.innerText = "How often does Tirth fart?";
+    tibt4.innerText = "How many spectacle frames did tirth change in last 3 years";
 });
 nrbt4.addEventListener("click", () => {
-    nrbt4.innerText = "5 things Nirma showed us in orientation that were actually true!!!";
+    nrbt4.innerText = "who screamed and applauded the tirth and sunidhi’s song in vaudeville.?";
 });
 
 
 // Set 5 ------------------------------------
 frbt5.addEventListener("click", () => {
-    frbt5.innerText = "What does Chandler’s dad’s job?";
+    frbt5.innerText = "Which friend was the only one to kiss all the other friends over the course of the show?";
 });
 fobt5.addEventListener("click", () => {
     fobt5.innerText = "Fastest Finger First : name 4 canteens of nirma with their one  most popular dish.";
 });
 tibt5.addEventListener("click", () => {
-    tibt5.innerText = " Number of exams Tirth gave without chEATing";
+    tibt5.innerText = "Where does Tirth spend the most time in the hostel?";
 });
 nrbt5.addEventListener("click", () => {
-    nrbt5.innerText = "who screamed and applauded the tirth and sunidhi’s song in vaudeville.?";
+    nrbt5.innerText = "How many club did tirth work in (1 event also works)";
 });
 
 
 // Set 6 ------------------------------------
 frbt6.addEventListener("click", () => {
-    frbt6.innerText = "Which friend was the only one to kiss all the other friends over the course of the show?";
+    frbt6.innerText = "What is Chandler's middle name?";
 });
 fobt6.addEventListener("click", () => {
-    fobt6.innerText = "Eating 4 packets of what are the real victory";
+    fobt6.innerText = "What is the price of a dark chocolate cone?";
 });
 tibt6.addEventListener("click", () => {
-    tibt6.innerText = "Describe Tirth in 3 words";
+    tibt6.innerText = "Favorite subject of tirth";
 });
 nrbt6.addEventListener("click", () => {
-    nrbt6.innerText = "Favorite food of k canteen";
+    nrbt6.innerText = "5 things Nirma showed us in orientation that were actually true!!!";
 });
 
 
 // Set 7 ------------------------------------
 frbt7.addEventListener("click", () => {
-    frbt7.innerText = "What is Chandler's middle name?";
+    frbt7.innerText = "Where does Ross work as a professor in season 6?";
 });
 fobt7.addEventListener("click", () => {
-    fobt7.innerText = "Which drink complete’s tirth’s every food?";
+    fobt7.innerText = "Eating 4 packets of what are the real victory";
 });
 tibt7.addEventListener("click", () => {
-    tibt7.innerText = "What is Tirths favorite sport to play?";
+    tibt7.innerText = "Tirths favorite sport to play";
 });
 nrbt7.addEventListener("click", () => {
-    nrbt7.innerText = "Tirths favorite teacher";
+    nrbt7.innerText = "Favorite food of k canteen";
 });
 
 
 // Set 8 ------------------------------------
 frbt8.addEventListener("click", () => {
-    frbt8.innerText = "Where does Ross work as a professor in season 6?";
+    frbt8.innerText = "What nickname did Monica’s dad give her?";
 });
 fobt8.addEventListener("click", () => {
-    fobt8.innerText = "What is the price of dark chocolate cone?";
+    fobt8.innerText = "Which drink complete’s tirth’s every food?";
 });
 tibt8.addEventListener("click", () => {
-    tibt8.innerText = "Tirth favorite food cuisine";
+    tibt8.innerText = "How many freshers party has tirth attended";
 });
 nrbt8.addEventListener("click", () => {
-    nrbt8.innerText = "How many club did tirth work in (1 event also works)";
+    nrbt8.innerText = "Tirths favorite teacher";
+});
+
+
+var bn1 = document.querySelector("#bn-1");
+var bn2 = document.querySelector("#bn-2");
+
+bn1.addEventListener("click", () => {   
+    bn1.innerText = "Is Tirth a good ACM President?";
+});
+bn2.addEventListener("click", () => {
+    bn2.innerText = "Is Tirth a good Startup Grind Director?";
 });

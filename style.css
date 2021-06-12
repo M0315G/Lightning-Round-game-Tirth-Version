@@ -1,0 +1,94 @@
+body {
+    background-color: rgb(245, 243, 243);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+
+
+.styled-table {
+    border-collapse: collapse;
+    margin: 100px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 1000px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.styled-table thead tr {
+    
+    color: #ffffff;
+    text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 20px 25px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+.team{
+    background-color: #522B29;
+}
+
+.friends{
+    background-color: #37FF8B;
+}
+
+.tirth{
+    background-color: #51D6FF;
+}
+
+.food{
+    background-color: #A06B9A;
+}
+
+.nirma{
+    background-color: #009879;
+}
+
+.button {
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    font-size: 30px;
+}
+
+.fr-btn{
+    background-color: #37FF8B;
+}
+
+.fo-btn{
+    background-color: #A06B9A;
+}
+
+.ti-btn{
+    background-color: #51D6FF;
+}
+
+.nr-btn{
+    background-color: #009879;
+}
+
+
